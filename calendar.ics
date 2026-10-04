@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Undangan Firmansyah & Munirah//ID
+BEGIN:VEVENT
+UID:firmansyah-munirah-20261011@undangan
+DTSTAMP:20261004T000000Z
+DTSTART:20261011T020000Z
+DTEND:20261011T060000Z
+SUMMARY:Pernikahan Firmansyah & Munirah
+DESCRIPTION:Akad nikah 09.00 WIB dan resepsi 10.00 WIB.
+LOCATION:Kp. Lempuyang\, RT. 009/03\, Ds. Lempuyang\, Kec. Tanara\, Kab. Serang\, Banten
+END:VEVENT
+END:VCALENDAR
